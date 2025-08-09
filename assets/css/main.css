@@ -1,7 +1,14 @@
+@font-face {
+    font-family: "COMIC";
+    src: url("assets/fonts/COMIC.ttf") format("truetype");
+}
+
 body{
     padding-left: auto;
     padding-right: auto;
 
     background-color: rgb(14, 15, 31);
     color: white;
+
+
 }
