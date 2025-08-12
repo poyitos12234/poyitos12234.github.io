@@ -12,3 +12,8 @@ body{
     background-color: rgb(14, 15, 31);
     color: white;
 }
+canvas{
+    image-rendering: optimizeSpeed;
+    image-rendering: -moz-crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
