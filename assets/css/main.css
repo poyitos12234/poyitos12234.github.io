@@ -9,11 +9,6 @@ body{
     text-align: center;
     align-items: center;
 
-    background-color: rgb(14, 15, 31);
+    background-color: rgb(23, 34, 51);
     color: white;
-}
-canvas{
-    image-rendering: optimizeSpeed;
-    image-rendering: -moz-crisp-edges;
-    -ms-interpolation-mode: nearest-neighbor;
 }
