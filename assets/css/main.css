@@ -14,5 +14,6 @@ body{
     color: white;
 }
 
-.inset {border-style: inset; border-color: rgb(241, 145, 85); color: rgb(241, 145, 85);}
+.outset {border-style: outset; border-color: rgb(241, 145, 85); color: rgb(241, 145, 85);}
+.inset {border-style: inset; padding-left: 6cm; padding-right: 6cm; border-color: rgba(255, 255, 255, 0.5) ; color: rgba(255, 255, 255, 0.6);}
 a {color: rgb(241, 145, 85);}
