@@ -1,10 +1,13 @@
-font-face {
-    font-family: fantasy;
-    src: url("/assets/fonts/comic.ttf") format("truetype");
+@font-face {
+    font-family: "papyrus";
+    src: url("/assets/fonts/papyrus.ttf") format("truetype");
+}
+
+p {
+    font-family: "papyrus";
 }
 
 body{
-    font-family:  Arial, Helvetica, sans-serif;
     padding-left: 4cm;
     padding-right: 4cm;
     padding-top: 2cm;
