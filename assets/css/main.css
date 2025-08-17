@@ -5,6 +5,7 @@ font-face {
 
 body{
     font-family:  Arial, Helvetica, sans-serif;
+    padding-top: 2cm;
     padding-left: 2cm;
     padding-right: 2cm;
     text-align: center;
@@ -15,5 +16,5 @@ body{
 }
 
 .outset {border-style: outset; border-color: rgb(241, 145, 85); color: rgb(241, 145, 85);}
-.inset {border-style: inset; padding-left: 6cm; padding-right: 6cm; border-color: rgba(255, 255, 255, 0.5) ; color: rgba(255, 255, 255, 0.6);}
+.inset {border-style: inset; border-width: 10cm; border-color: rgba(255, 255, 255, 0.5) ; color: rgba(255, 255, 255, 0.8);}
 a {color: rgb(241, 145, 85);}
