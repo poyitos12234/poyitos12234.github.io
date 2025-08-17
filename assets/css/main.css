@@ -3,11 +3,8 @@
     src: url("/assets/fonts/papyrus.ttf") format("truetype");
 }
 
-p {
-    font-family: "papyrus";
-}
-
 body{
+    font-family: "papyrus";
     padding-left: 4cm;
     padding-right: 4cm;
     padding-top: 2cm;
@@ -17,8 +14,6 @@ body{
     background-color: rgb(10, 15, 22);
     color: white;
 }
-
-.font {font-family: Helvetica;}
 
 .outset {border-style: outset; border-color: rgb(241, 145, 85); color: rgb(241, 145, 85);}
 .inset {border-style: inset; padding-right: .5cm; padding-left: .5cm; padding-top: .5cm; padding-bottom: .5cm; border-color: rgba(255, 255, 255, 0.5) ; color: rgba(255, 255, 255, 0.8);}
