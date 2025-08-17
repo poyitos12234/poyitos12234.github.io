@@ -4,11 +4,12 @@ font-face {
 }
 
 body{
+    font-family:  Arial, Helvetica, sans-serif;
     padding-left: 2cm;
     padding-right: 2cm;
     text-align: center;
     align-items: center;
 
-    background-color: rgb(17, 25, 37);
+    background-color: rgb(10, 15, 22);
     color: white;
 }
