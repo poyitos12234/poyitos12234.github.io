@@ -13,3 +13,6 @@ body{
     background-color: rgb(10, 15, 22);
     color: white;
 }
+
+.inset {border-style: inset; border-color: rgb(241, 145, 85); color: rgb(241, 145, 85);}
+a {color: rgb(241, 145, 85);}
