@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "papyrus";
-    src: url("/assets/fonts/papyrus.ttf") format("truetype");
+    font-family: "comic";
+    src: url("/assets/fonts/comic.ttf") format("truetype");
 }
 
 body{
-    font-family: "papyrus";
+    font-family: "comic";
     padding-left: 4cm;
     padding-right: 4cm;
     padding-top: 2cm;
