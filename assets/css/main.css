@@ -3,18 +3,32 @@
     src: url("/assets/fonts/comic.ttf") format("truetype");
 }
 
+*{
+ font-family: "comic";
+}
 body{
-    font-family: "comic";
-    padding-left: 4cm;
-    padding-right: 4cm;
-    padding-top: 2cm;
+    background-color: rgb(10, 15, 22);
+    color: white;
+   
     text-align: center;
     align-items: center;
 
-    background-color: rgb(10, 15, 22);
-    color: white;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-top: 50px;
+
+
 }
 
-.outset {border-style: outset; border-color: rgb(241, 145, 85); color: rgb(241, 145, 85);}
-.inset {border-style: inset; padding-right: .5cm; padding-left: .5cm; padding-top: .5cm; padding-bottom: .5cm; border-color: rgba(255, 255, 255, 0.5) ; color: rgba(255, 255, 255, 0.8);}
-a {color: rgb(241, 145, 85);}
+.gradient {
+    background: linear-gradient(90deg, #0000, #F19155, #0000)
+}
+.outset {
+    
+    border-style: outset;
+    border-color: #2D3445;
+    border-width: 10px;
+    background: #252B38
+}
