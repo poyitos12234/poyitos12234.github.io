@@ -22,14 +22,11 @@ body{
 
 }
 .title {
+    background: linear-gradient(90deg, #0000, #F19155, #0000);
     @font-face {
         font-family: "serif";
-        src: url("/assets/fonts/Makcasa-Regular.ttf") format("truetype");
+        src: url("/assets/fonts/comic.ttf") format("truetype");
     }
-}
-
-.gradient {
-    background: linear-gradient(90deg, #0000, #F19155, #0000)
 }
 .outset {
     border-style: outset;
