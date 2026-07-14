@@ -27,7 +27,7 @@ body{
 
 }
 .title {
-    font-size: 100px;
+    font-size: 50px;
     background: linear-gradient(90deg, rgb(34,5,0), #F19155, rgb(34,5,0));
     font-family: "serif";
 }
