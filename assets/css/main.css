@@ -21,12 +21,17 @@ body{
 
 
 }
+.titles {
+    @font-face {
+        font-family: "serif";
+        src: url("/assets/fonts/Makcasa-Regular.ttf") format("truetype");
+    }
+}
 
 .gradient {
     background: linear-gradient(90deg, #0000, #F19155, #0000)
 }
 .outset {
-    
     border-style: outset;
     border-color: #2D3445;
     border-width: 10px;
