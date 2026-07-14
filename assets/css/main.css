@@ -12,8 +12,8 @@
  font-family: "comic";
 }
 body{
-    background-color: rgb(10, 15, 22);
-    color: white;
+    background-color: rgb(34, 5, 0);
+    color: rgb(255, 222, 206);
    
     text-align: center;
     align-items: center;
@@ -27,12 +27,12 @@ body{
 
 }
 .title {
-    background: linear-gradient(90deg, #0000, #F19155, #0000);
+    background: linear-gradient(90deg, rgb(34,5,0), #F19155, rgb(34,5,0));
     font-family: "serif";
 }
 .outset {
     border-style: outset;
-    border-color: #2D3445;
+    border-color: #252B38;
     border-width: 10px;
     background: #252B38
 }
