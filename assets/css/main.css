@@ -21,7 +21,7 @@ body{
 
 
 }
-.titles {
+.title {
     @font-face {
         font-family: "serif";
         src: url("/assets/fonts/Makcasa-Regular.ttf") format("truetype");
